@@ -1,76 +1,62 @@
-.border
-{
-width: 100%;
-height: 80%;
-background:brown;
- border: 3px solid green;
-   display: flex;    
-    
+.border {
+  width: 100%;
+  height: 80%;
+  background: brown;
+  border: 3px solid green;
+  display: flex;
 }
-.box1
-{
+
+.box1 {
   height: 500px;
-    width: 25%;
-    background-color: beige;
-   
-    box-sizing: border-box;
-    
-}
-.box2
-{
-     height: 420px;
-    width: 25%;
-    background: white;
-    margin: 20px;
-    box-sizing: border-box;
-border: 2px double black;
-   color: brown;
-}
-.button
-{
- color: white;
-    background-color: darkcyan;
-    width: 90px;
-    height: 40px;
-     border-radius: 40px;
-    
-    
-}
-.box3
-{
-   height: 500px;
-    width: 25%;
-    background: white;
-   
-   margin: 20px;
-    box-sizing: border-box;
-    border: 2px double black;
-    color: brown;
-
+  width: 25%;
+  background-color: beige;
+  box-sizing: border-box;
 }
 
-.box4
-{
+.box2 {
   height: 420px;
-    width: 25%;
-    background: white;
-    margin: 20px;
-    box-sizing: border-box;   
-    color: brown;
-    border: 2px double black;
-    
+  width: 25%;
+  background: white;
+  margin: 20px;
+  box-sizing: border-box;
+  border: 2px double black;
+  color: brown;
 }
-.read
-{
- color: floralwhite;
-background-color: darkcyan;
-    width: 90px;
-    height: 40px;
-   border-radius: 40px; 
-    
-    
-    
-    
+
+.button {
+  color: white;
+  background-color: darkcyan;
+  width: 90px;
+  height: 40px;
+  border-radius: 40px;
+}
+
+.box3 {
+  height: 500px;
+  width: 25%;
+  background: white;
+  margin: 20px;
+  box-sizing: border-box;
+  border: 2px double black;
+  color: brown;
+}
+
+.box4 {
+  height: 420px;
+  width: 25%;
+  background: white;
+  margin: 20px;
+  box-sizing: border-box;
+  color: brown;
+  border: 2px double black;
+}
+
+.read {
+  color: floralwhite;
+  background-color: darkcyan;
+  width: 90px;
+  height: 40px;
+  border-radius: 40px;
 }
 
 
